@@ -1,7 +1,5 @@
 # Fokir
 
-# Fokir — Personal Portfolio Template
-
 Fokir is a **static personal portfolio website** built using **pure HTML and CSS**.  
 It’s designed as a simple, elegant personal homepage to showcase information, services, portfolio items, and blog posts.  
 This project focuses on clean layout and well-structured code rather than interactivity or responsiveness.
